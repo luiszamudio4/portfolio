@@ -126,3 +126,43 @@ hr {
   background-size: cover;
   position: relative;
 }
+
+.footer-col {
+	position: relative;
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+  box-shadow: 0 1px 10px 3px rgba(0, 0, 0, 0.18);
+  top: -60px;
+  padding: 50px 0;
+  max-width:400px;
+  margin:auto;
+}
+
+.btn.outline {
+	background: none;
+	padding: 12px 22px;
+}
+
+.btn-primary.outline {
+	border: 2px solid #0099cc;
+	color: #0099cc;
+	border:0;
+}
+
+.linkedin-btn {
+	background-color: white;
+	width:140px;
+	box-shadow: 0px 2px 5px 1px lightgrey;
+	padding: 12px;
+	border-radius: 5px;
+}
+
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+	color: #33a6cc;
+	border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+	border-color: #007299;
+	color: #007299;
+	box-shadow: none;
+}
