@@ -80,3 +80,49 @@ hr {
 .email .glyphicon {
 	margin-right:5px;
 }
+
+
+.project-img-col img {
+	max-width: 250px;
+  margin: auto;
+}
+
+
+.list-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.techlogo {
+	width:140px;
+}
+
+.tech-item {
+	margin:10px;
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tech-item-text {
+	margin-top:10px;
+}
+
+.tech-item i {
+	font-size:5em;
+}
+
+.tech-tool-item {
+	margin-left:15px;
+  display: inline-block;;
+}
+
+.row-footer {
+	padding: 0vh 10vw 10vw 10vw;
+	margin-top:100px;
+	background-image: url('../img/dublin.jpg');
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
