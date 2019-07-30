@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 This is my updated portfolio
 
 ## Link to Portfolio
